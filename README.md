@@ -6,7 +6,7 @@
 
 ### Featured Projects 
 
-- [Personal Website](foxxymoxxi.github.io): foxxymoxxi.github.io
+- [Personal Website](https://github.com/foxxymoxxi/foxxymoxxi.github.io): [foxxymoxxi.github.io](foxxymoxxi.github.io)
 
 ### Contact	📫
 
